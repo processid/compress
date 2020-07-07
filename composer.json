@@ -1,5 +1,5 @@
 {
-    "name": "ProcessID/Compress",
+    "name": "processid/compress",
     "description": "Compression of a file or a chain in BZIP2 or DEFLATE",
     "require": {
         "php": "^5.3"
