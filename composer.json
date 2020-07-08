@@ -3,5 +3,10 @@
     "description": "Compression of a file or a chain in BZIP2 or DEFLATE",
     "require": {
         "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "processid\\compress\\": "/"
+        }
     }
 }
