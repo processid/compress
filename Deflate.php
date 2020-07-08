@@ -9,7 +9,7 @@
    // $outputType : FILE | VARIABLE
    // $outputFile : si $outputType = FILE : $outputFile contient le chemin complet du fichier de sortie
    
-   namespace ProcessID\Compress;
+   namespace processid\compress;
    
    class Deflate {
       protected $_inputType;
